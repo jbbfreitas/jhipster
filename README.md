@@ -241,5 +241,5 @@ O Cassandra é altamente escalável e sua arquitetura foi projetada para ser o m
 
 
 <p align="center">
-  <img src="Imagens/JHpister.png" alt="Janela Principal">
+  <img src="imagens/JHpister.png" alt="Janela Principal">
 </p>
