@@ -37,7 +37,11 @@ Os tipos de aplicações possíveis são as seguintes:
   - JHipster UAA server (for microservice OAuth2 authentication) 
 
 
-> A primeira opção cria aplicações monolíticas, ou seja, sem utilização de microserviços. É a que será utilizada neste projeto.
+> A primeira opção cria aplicações monolíticas, ou seja, sem utilização de microserviços. As demais são relacionadas para microserviços.  A opção  que será utilizada neste projeto é a primeira.
+
+
+> Para saber um pouco mais sobre microserviço acesse https://www.jhipster.tech/microservices-architecture/
+
 
 Once the application is generated, you can launch it using Maven (./mvnw on Linux/MacOS/Windows PowerShell, mvnw on Windows Cmd) or Gradle (./gradlew on Linux/MacOS/Windows PowerShell, gradlew on Windows Cmd).
 
