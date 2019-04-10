@@ -28,7 +28,14 @@ jhipster
 
 ::: :pushpin: Importante :::
 
-> Essa classe permite trabalhar com datas no Angular.
+> Essa pergunta refere-se ao tipo de aplicação que se deseja criar.
+Os tipos de aplicações possíveis são as seguintes:
+
+  . Monolithic application (recommended for simple projects) 
+  . Microservice application 
+  . Microservice gateway 
+  . JHipster UAA server (for microservice OAuth2 authentication) 
+
 
 
 Once the application is generated, you can launch it using Maven (./mvnw on Linux/MacOS/Windows PowerShell, mvnw on Windows Cmd) or Gradle (./gradlew on Linux/MacOS/Windows PowerShell, gradlew on Windows Cmd).
