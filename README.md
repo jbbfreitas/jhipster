@@ -21,15 +21,14 @@ jhipster
 
 4. Diversas questões deverão ser respondidas para criar a nossa aplicação. Vamos a elas então:
 
-<p align="center">
-  <img src="imagens/PrimeiraPergunta.png" alt="Primeira Pergunta">
-</p>
+:one: 
+
+```Qual o tipo de aplicação você deseja criar```
 
 
 ::: :pushpin: Importante :::
 
-> Essa pergunta refere-se ao tipo de aplicação que se deseja criar.
-Os tipos de aplicações possíveis são as seguintes:
+> Os tipos de aplicações possíveis são as seguintes:
 
   - Monolithic application (recommended for simple projects) 
   - Microservice application 
@@ -41,6 +40,8 @@ Os tipos de aplicações possíveis são as seguintes:
 
 
 > Para saber um pouco mais sobre microserviço acesse https://www.jhipster.tech/microservices-architecture/
+
+`? What is the base name of your application? (jhipster)` 
 
 
 Once the application is generated, you can launch it using Maven (./mvnw on Linux/MacOS/Windows PowerShell, mvnw on Windows Cmd) or Gradle (./gradlew on Linux/MacOS/Windows PowerShell, gradlew on Windows Cmd).
