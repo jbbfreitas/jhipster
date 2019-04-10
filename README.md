@@ -21,9 +21,7 @@ jhipster
 
 4. Diversas questões deverão ser respondidas para criar a nossa aplicação. Vamos a elas então:
 
-:one: 
-
-```Qual o tipo de aplicação você deseja criar```
+:one:-```Qual o tipo de aplicação você deseja criar```
 
 
 ::: :pushpin: Importante :::
