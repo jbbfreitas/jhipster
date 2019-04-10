@@ -238,3 +238,8 @@ O Cassandra é altamente escalável e sua arquitetura foi projetada para ser o m
 8. No `prompt` digite `mvn`
 
 :pray: Pronto! A sua aplicação estará disponívem em http://localhost:8090
+
+
+<p align="center">
+  <img src="Imagens/JHpister.png" alt="Janela Principal">
+</p>
