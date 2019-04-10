@@ -169,8 +169,11 @@ O Cassandra é altamente escalável e sua arquitetura foi projetada para ser o m
 :one::two:-Quais outras tecnologias você gostaria de usar?
 
 - ◯ Mecanismo de pesquisa usando o Elasticsearch
+
 - ◯ WebSockets usando Spring Websocket
+
 - ◯ Mensagens assíncronas usando o Apache Kafka
+
 - ◯ API first usando o gerador OpenAPI
 
 O modelo de documento é mapeado para os objetos no código do aplicativo, facilitando o trabalho com os dados
