@@ -39,7 +39,23 @@ jhipster
 
 > Para saber um pouco mais sobre microserviço acesse https://www.jhipster.tech/microservices-architecture/
 
-`? What is the base name of your application? (jhipster)` 
+:two:-` Qual o nome base para a sua aplicação? (jhipster)` 
+
+::: :pushpin: Importante :::
+
+> o nome base será utilizado como sufixo do pacote principal. Vamos informar `ec`
+
+:three:-` Qual o pacote java? (br.com.abim)` 
+
+::: :pushpin: Importante :::
+
+> Vamos informar `br.com.abim`
+
+:four:-`Qual o pacote java? (br.com.abim)` 
+
+::: :pushpin: Importante :::
+
+> Vamos informar `br.com.abim`
 
 
 Once the application is generated, you can launch it using Maven (./mvnw on Linux/MacOS/Windows PowerShell, mvnw on Windows Cmd) or Gradle (./gradlew on Linux/MacOS/Windows PowerShell, gradlew on Windows Cmd).
