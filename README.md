@@ -31,10 +31,10 @@ jhipster
 > Essa pergunta refere-se ao tipo de aplicação que se deseja criar.
 Os tipos de aplicações possíveis são as seguintes:
 
-  . Monolithic application (recommended for simple projects) 
-  . Microservice application 
-  . Microservice gateway 
-  . JHipster UAA server (for microservice OAuth2 authentication) 
+  - Monolithic application (recommended for simple projects) 
+  - Microservice application 
+  - Microservice gateway 
+  - JHipster UAA server (for microservice OAuth2 authentication) 
 
 
 
