@@ -1,6 +1,27 @@
 # JHipster - Gerando Código para o Backend e para o FrontEnd
 
-JHipster é uma plataforma de desenvolvimento para gerar, desenvolver e fazer o  deploy de aplicações Web usando `Spring Boot` + `Angular/React` e também usando microserviços Spring . 
+JHipster é uma plataforma de desenvolvimento para gerar, desenvolver e fazer o  deploy de aplicações Web usando `Spring Boot` + `Angular/React`.  Pode-se usá-la também para criar microserviços Spring . 
 
 
-Install JHipster: npm install -g generator-jhipster
+## Iniciando com o JHipster
+
+1. Crie uma pasta em `Grupo de Estudo/jhipster`. Essa pasta será utilizada para criar a nossa aplicação:
+
+2. Vá para a pasta recém criada :
+
+```java
+cd jhipster/
+```
+
+To generate your application, type:
+
+jhipster
+
+Answer the questions asked by the generator to create an application tailored to your needs. Those options are described in the next section.
+
+Once the application is generated, you can launch it using Maven (./mvnw on Linux/MacOS/Windows PowerShell, mvnw on Windows Cmd) or Gradle (./gradlew on Linux/MacOS/Windows PowerShell, gradlew on Windows Cmd).
+
+The application will be available on http://localhost:8080
+
+Important if you want to have “live reload” of your JavaScript/TypeScript code, you will need run npm start or yarn start. You can go to the Using JHipster in development page for more information.
+
