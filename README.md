@@ -168,15 +168,47 @@ O Cassandra é altamente escalável e sua arquitetura foi projetada para ser o m
 
 :one::two:-Quais outras tecnologias você gostaria de usar?
 
-- ◯ Mecanismo de pesquisa usando o Elasticsearch
+::: :pushpin: Importante :::
 
-- ◯ WebSockets usando Spring Websocket
+> As opções disponíveis são as seguintes:
 
-- ◯ Mensagens assíncronas usando o Apache Kafka
+- Mecanismo de pesquisa usando o Elasticsearch
+- WebSockets usando Spring Websocket
+- Mensagens assíncronas usando o Apache Kafka
+- API first usando o gerador OpenAPI
 
-- ◯ API first usando o gerador OpenAPI
+> Para este estudo de caso, não vamos selecionar nenhuma das opções.
 
-O modelo de documento é mapeado para os objetos no código do aplicativo, facilitando o trabalho com os dados
+
+:one::three:-Qual *Framework* desejaria usar para o lado cliente?
+> Para este estudo de caso,  vamos selecionar `Angular 6` 
+
+:one::four:-Gostaria de habilitar o pré processador *SASS* para folha de estilo ?
+
+> Para este estudo de caso, iremos usar `Y`.
+
+:one::five:-Gostaria de habilitar internacionalização ?
+
+> Para este estudo de caso, iremos usar `Y`.
+
+:one::six:-Escolha a linguagem nativa
+
+> Para este estudo de caso, iremos usar `Portuguese (Brazilian)`.
+
+:one::seven:-Favor selecionar línguas adicionais 
+
+> Para este estudo de caso, iremos usar `English`.
+
+:one::eight:-Além do `JUnit` e do  `Jest`, Que outros frameworks você gostaria de usar? 
+
+ ◯ Gatling
+
+ ◯ Cucumber
+
+❯◉ Protractor
+
+> Para este estudo de caso, iremos usar `Protractor`.
+
 
 
 Once the application is generated, you can launch it using Maven (./mvnw on Linux/MacOS/Windows PowerShell, mvnw on Windows Cmd) or Gradle (./gradlew on Linux/MacOS/Windows PowerShell, gradlew on Windows Cmd).
