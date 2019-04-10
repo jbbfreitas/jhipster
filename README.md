@@ -21,6 +21,9 @@ jhipster
 
 4. Diversas questões deverão ser respondidas para criar a nossa aplicação. Vamos a elas então:
 
+<p align="center">
+  <img src="Imagens/PrimeiraPergunta.png" alt="Primeira Pergunta">
+</p>
 
 5.
 
