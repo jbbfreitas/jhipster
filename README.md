@@ -13,11 +13,16 @@ JHipster é uma plataforma de desenvolvimento para gerar, desenvolver e fazer o 
 cd jhipster/
 ```
 
-To generate your application, type:
+3. Gere a sua primeira aplicação, simplesmente digitando:
 
+```java
 jhipster
+```
 
-Answer the questions asked by the generator to create an application tailored to your needs. Those options are described in the next section.
+4. Diversas questões deverão ser respondidas para criar a nossa aplicação. Vamos a elas então:
+
+
+5.
 
 Once the application is generated, you can launch it using Maven (./mvnw on Linux/MacOS/Windows PowerShell, mvnw on Windows Cmd) or Gradle (./gradlew on Linux/MacOS/Windows PowerShell, gradlew on Windows Cmd).
 
