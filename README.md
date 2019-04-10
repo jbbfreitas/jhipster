@@ -209,11 +209,14 @@ O Cassandra é altamente escalável e sua arquitetura foi projetada para ser o m
 
 > Para este estudo de caso, iremos usar `Protractor`.
 
+:one::nine:-Gostaria de instalar outros geradores disponíveis no  `JHipster Marketplace`?  
+
+> Para este estudo de caso, iremos usar `N`.
+
+:pray: Pronto! A sua aplicação será gerada e estará disponívem em http://localhost:8080
 
 
-Once the application is generated, you can launch it using Maven (./mvnw on Linux/MacOS/Windows PowerShell, mvnw on Windows Cmd) or Gradle (./gradlew on Linux/MacOS/Windows PowerShell, gradlew on Windows Cmd).
+::: :pushpin: Importante :::
 
-The application will be available on http://localhost:8080
-
-Important if you want to have “live reload” of your JavaScript/TypeScript code, you will need run npm start or yarn start. You can go to the Using JHipster in development page for more information.
+>Espere até o final. Isso pode demorar um pouco dependendo de sua rede, afinal perto de 400 artefatos serão gerados!!!! :flushed: 
 
