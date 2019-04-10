@@ -19,7 +19,7 @@ cd jhipster/
 jhipster
 ```
 
-4. Diversas questões deverão ser respondidas para criar a nossa aplicação. Vamos a elas então:
+4. Diversas (19 para ser mais exato) questões deverão ser respondidas para criar a nossa aplicação. Vamos a elas então:
 
 :one:-```Qual o tipo de aplicação você deseja criar```
 
@@ -213,10 +213,28 @@ O Cassandra é altamente escalável e sua arquitetura foi projetada para ser o m
 
 > Para este estudo de caso, iremos usar `N`.
 
-:pray: Pronto! A sua aplicação será gerada e estará disponívem em http://localhost:8080
-
 
 ::: :pushpin: Importante :::
 
 >Espere até o final. Isso pode demorar um pouco dependendo de sua rede, afinal perto de 400 artefatos serão gerados!!!! :flushed: 
 
+5. Abra o Eclipse e importe o propjeto recém-criado.
+
+6. Altere o arquivo `application-dev.yml` para
+
+```yml
+    datasource:
+        type: com.zaxxer.hikari.HikariDataSource
+        url: jdbc:postgresql://localhost:5432/ec
+        username: abim
+        password: abim
+
+    server:
+      port: 8090
+
+```
+7. Crie no PGAdmin um banco de dados denominado `ec` com usuário e senha `abim`.
+
+8. No `prompt` digite `mvn`
+
+:pray: Pronto! A sua aplicação estará disponívem em http://localhost:8090
