@@ -25,7 +25,11 @@ jhipster
   <img src="imagens/PrimeiraPergunta.png" alt="Primeira Pergunta">
 </p>
 
-5.
+
+::: :pushpin: Importante :::
+
+> Essa classe permite trabalhar com datas no Angular.
+
 
 Once the application is generated, you can launch it using Maven (./mvnw on Linux/MacOS/Windows PowerShell, mvnw on Windows Cmd) or Gradle (./gradlew on Linux/MacOS/Windows PowerShell, gradlew on Windows Cmd).
 
