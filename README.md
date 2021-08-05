@@ -2,12 +2,16 @@
 
 JHipster é uma plataforma de desenvolvimento para gerar, desenvolver e fazer o  deploy de aplicações Web usando `Spring Boot` + `Angular/React`.  Pode-se usá-la também para criar microserviços Spring . 
 
-## Intale o JHipster
+## Intale ou atualize o JHipster
 
 ```java
  npm install -g generator-jhipster
  ```
- 
+ Se dejar só atualizar, digite 
+```java
+ npm update -g generator-jhipster
+ ```
+
 ## Iniciando com o JHipster
 
 1. Crie uma pasta em `Grupo de Estudo/jhipster`. Essa pasta será utilizada para criar a nossa aplicação:
